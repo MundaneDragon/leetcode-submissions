@@ -4,14 +4,14 @@
 
 ## Progress
 
-**Total problems solved:** 15
+**Total problems solved:** 16
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
 | Array | 9 |
-| Math | 2 |
+| Math | 3 |
 | Bit Manipulation | 1 |
 | Hash Table | 1 |
 | Linked List | 1 |
@@ -35,10 +35,11 @@
 </details>
 
 <details>
-<summary><strong>Math</strong> (2)</summary>
+<summary><strong>Math</strong> (3)</summary>
 
 - [add-two-integers](./Math/add-two-integers)
 - [alice-and-bob-playing-flower-game](./Math/alice-and-bob-playing-flower-game)
+- [palindrome-number](./Math/palindrome-number)
 
 </details>
 
