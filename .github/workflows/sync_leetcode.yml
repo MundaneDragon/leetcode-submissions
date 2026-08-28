@@ -1,0 +1,44 @@
+name: Sync Leetcode
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Configure git identity
+        run: |
+          git config user.name "${{ secrets.GIT_USER_NAME }}"
+          git config user.email "${{ secrets.GIT_USER_EMAIL }}"
+
+      - name: Run sync script (commits each new submission)
+        env:
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+          GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
+        run: node scripts/sync.js
+
+      - name: Generate README summary
+        run: node scripts/generate_readme.js
+
+      - name: Commit README if changed
+        run: |
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README unchanged, skipping commit."
+          else
+            git commit -m "Update README with latest progress"
+          fi
+
+      - name: Push all commits
+        run: git push
