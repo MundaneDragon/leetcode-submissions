@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Total problems solved:** 16
+**Total problems solved:** 17
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
-| Array | 9 |
+| Array | 10 |
 | Math | 3 |
 | Bit Manipulation | 1 |
 | Hash Table | 1 |
@@ -20,10 +20,11 @@
 ## Problem list
 
 <details>
-<summary><strong>Array</strong> (9)</summary>
+<summary><strong>Array</strong> (10)</summary>
 
 - [find-the-minimum-area-to-cover-all-ones-i](./Array/find-the-minimum-area-to-cover-all-ones-i)
 - [find-the-number-of-ways-to-place-people-i](./Array/find-the-number-of-ways-to-place-people-i)
+- [longest-common-prefix](./Array/longest-common-prefix)
 - [longest-subarray-of-1s-after-deleting-one-element](./Array/longest-subarray-of-1s-after-deleting-one-element)
 - [maximum-average-pass-ratio](./Array/maximum-average-pass-ratio)
 - [maximum-count-of-positive-integer-and-negative-integer](./Array/maximum-count-of-positive-integer-and-negative-integer)
@@ -72,4 +73,4 @@
 </details>
 
 ---
-*Last updated: 2026-08-28*
+*Last updated: 2026-08-29*
