@@ -4,7 +4,7 @@
 
 ## Progress
 
-**Total problems solved:** 17
+**Total problems solved:** 19
 
 ## Breakdown by topic
 
@@ -12,9 +12,10 @@
 | --- | --- |
 | Array | 10 |
 | Math | 3 |
+| Linked List | 2 |
 | Bit Manipulation | 1 |
 | Hash Table | 1 |
-| Linked List | 1 |
+| String | 1 |
 | Two Pointers | 1 |
 
 ## Problem list
@@ -45,6 +46,14 @@
 </details>
 
 <details>
+<summary><strong>Linked List</strong> (2)</summary>
+
+- [add-two-numbers](./Linked%20List/add-two-numbers)
+- [merge-two-sorted-lists](./Linked%20List/merge-two-sorted-lists)
+
+</details>
+
+<details>
 <summary><strong>Bit Manipulation</strong> (1)</summary>
 
 - [minimum-operations-to-make-the-integer-zero](./Bit%20Manipulation/minimum-operations-to-make-the-integer-zero)
@@ -59,9 +68,9 @@
 </details>
 
 <details>
-<summary><strong>Linked List</strong> (1)</summary>
+<summary><strong>String</strong> (1)</summary>
 
-- [add-two-numbers](./Linked%20List/add-two-numbers)
+- [valid-parentheses](./String/valid-parentheses)
 
 </details>
 
@@ -73,4 +82,4 @@
 </details>
 
 ---
-*Last updated: 2026-08-29*
+*Last updated: 2026-08-30*
