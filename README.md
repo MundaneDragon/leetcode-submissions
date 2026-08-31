@@ -4,18 +4,18 @@
 
 ## Progress
 
-**Total problems solved:** 19
+**Total problems solved:** 21
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
 | Array | 10 |
-| Math | 3 |
+| Math | 4 |
 | Linked List | 2 |
+| String | 2 |
 | Bit Manipulation | 1 |
 | Hash Table | 1 |
-| String | 1 |
 | Two Pointers | 1 |
 
 ## Problem list
@@ -37,11 +37,12 @@
 </details>
 
 <details>
-<summary><strong>Math</strong> (3)</summary>
+<summary><strong>Math</strong> (4)</summary>
 
 - [add-two-integers](./Math/add-two-integers)
 - [alice-and-bob-playing-flower-game](./Math/alice-and-bob-playing-flower-game)
 - [palindrome-number](./Math/palindrome-number)
+- [reverse-integer](./Math/reverse-integer)
 
 </details>
 
@@ -50,6 +51,14 @@
 
 - [add-two-numbers](./Linked%20List/add-two-numbers)
 - [merge-two-sorted-lists](./Linked%20List/merge-two-sorted-lists)
+
+</details>
+
+<details>
+<summary><strong>String</strong> (2)</summary>
+
+- [valid-parentheses](./String/valid-parentheses)
+- [zigzag-conversion](./String/zigzag-conversion)
 
 </details>
 
@@ -68,13 +77,6 @@
 </details>
 
 <details>
-<summary><strong>String</strong> (1)</summary>
-
-- [valid-parentheses](./String/valid-parentheses)
-
-</details>
-
-<details>
 <summary><strong>Two Pointers</strong> (1)</summary>
 
 - [longest-palindromic-substring](./Two%20Pointers/longest-palindromic-substring)
@@ -82,4 +84,4 @@
 </details>
 
 ---
-*Last updated: 2026-08-30*
+*Last updated: 2026-08-31*
