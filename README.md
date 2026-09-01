@@ -4,25 +4,26 @@
 
 ## Progress
 
-**Total problems solved:** 21
+**Total problems solved:** 24
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
-| Array | 10 |
+| Array | 11 |
 | Math | 4 |
+| String | 3 |
+| Hash Table | 2 |
 | Linked List | 2 |
-| String | 2 |
 | Bit Manipulation | 1 |
-| Hash Table | 1 |
 | Two Pointers | 1 |
 
 ## Problem list
 
 <details>
-<summary><strong>Array</strong> (10)</summary>
+<summary><strong>Array</strong> (11)</summary>
 
+- [container-with-most-water](./Array/container-with-most-water)
 - [find-the-minimum-area-to-cover-all-ones-i](./Array/find-the-minimum-area-to-cover-all-ones-i)
 - [find-the-number-of-ways-to-place-people-i](./Array/find-the-number-of-ways-to-place-people-i)
 - [longest-common-prefix](./Array/longest-common-prefix)
@@ -47,18 +48,27 @@
 </details>
 
 <details>
-<summary><strong>Linked List</strong> (2)</summary>
+<summary><strong>String</strong> (3)</summary>
 
-- [add-two-numbers](./Linked%20List/add-two-numbers)
-- [merge-two-sorted-lists](./Linked%20List/merge-two-sorted-lists)
+- [string-to-integer-atoi](./String/string-to-integer-atoi)
+- [valid-parentheses](./String/valid-parentheses)
+- [zigzag-conversion](./String/zigzag-conversion)
 
 </details>
 
 <details>
-<summary><strong>String</strong> (2)</summary>
+<summary><strong>Hash Table</strong> (2)</summary>
 
-- [valid-parentheses](./String/valid-parentheses)
-- [zigzag-conversion](./String/zigzag-conversion)
+- [integer-to-roman](./Hash%20Table/integer-to-roman)
+- [longest-substring-without-repeating-characters](./Hash%20Table/longest-substring-without-repeating-characters)
+
+</details>
+
+<details>
+<summary><strong>Linked List</strong> (2)</summary>
+
+- [add-two-numbers](./Linked%20List/add-two-numbers)
+- [merge-two-sorted-lists](./Linked%20List/merge-two-sorted-lists)
 
 </details>
 
@@ -70,13 +80,6 @@
 </details>
 
 <details>
-<summary><strong>Hash Table</strong> (1)</summary>
-
-- [longest-substring-without-repeating-characters](./Hash%20Table/longest-substring-without-repeating-characters)
-
-</details>
-
-<details>
 <summary><strong>Two Pointers</strong> (1)</summary>
 
 - [longest-palindromic-substring](./Two%20Pointers/longest-palindromic-substring)
@@ -84,4 +87,4 @@
 </details>
 
 ---
-*Last updated: 2026-08-31*
+*Last updated: 2026-09-01*
