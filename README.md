@@ -4,16 +4,16 @@
 
 ## Progress
 
-**Total problems solved:** 26
+**Total problems solved:** 33
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
-| Array | 12 |
+| Array | 18 |
 | Math | 4 |
+| Hash Table | 3 |
 | String | 3 |
-| Hash Table | 2 |
 | Linked List | 2 |
 | Two Pointers | 2 |
 | Bit Manipulation | 1 |
@@ -21,8 +21,12 @@
 ## Problem list
 
 <details>
-<summary><strong>Array</strong> (12)</summary>
+<summary><strong>Array</strong> (18)</summary>
 
+- [3sum](./Array/3sum)
+- [3sum-closest](./Array/3sum-closest)
+- [construct-uniform-parity-array-i](./Array/construct-uniform-parity-array-i)
+- [construct-uniform-parity-array-ii](./Array/construct-uniform-parity-array-ii)
 - [container-with-most-water](./Array/container-with-most-water)
 - [find-the-minimum-area-to-cover-all-ones-i](./Array/find-the-minimum-area-to-cover-all-ones-i)
 - [find-the-number-of-ways-to-place-people-i](./Array/find-the-number-of-ways-to-place-people-i)
@@ -32,6 +36,8 @@
 - [maximum-count-of-positive-integer-and-negative-integer](./Array/maximum-count-of-positive-integer-and-negative-integer)
 - [median-of-two-sorted-arrays](./Array/median-of-two-sorted-arrays)
 - [remove-element](./Array/remove-element)
+- [search-insert-position](./Array/search-insert-position)
+- [smallest-missing-multiple-of-k](./Array/smallest-missing-multiple-of-k)
 - [sort-matrix-by-diagonals](./Array/sort-matrix-by-diagonals)
 - [two-sum](./Array/two-sum)
 - [valid-sudoku](./Array/valid-sudoku)
@@ -49,19 +55,20 @@
 </details>
 
 <details>
+<summary><strong>Hash Table</strong> (3)</summary>
+
+- [integer-to-roman](./Hash%20Table/integer-to-roman)
+- [longest-substring-without-repeating-characters](./Hash%20Table/longest-substring-without-repeating-characters)
+- [roman-to-integer](./Hash%20Table/roman-to-integer)
+
+</details>
+
+<details>
 <summary><strong>String</strong> (3)</summary>
 
 - [string-to-integer-atoi](./String/string-to-integer-atoi)
 - [valid-parentheses](./String/valid-parentheses)
 - [zigzag-conversion](./String/zigzag-conversion)
-
-</details>
-
-<details>
-<summary><strong>Hash Table</strong> (2)</summary>
-
-- [integer-to-roman](./Hash%20Table/integer-to-roman)
-- [longest-substring-without-repeating-characters](./Hash%20Table/longest-substring-without-repeating-characters)
 
 </details>
 
@@ -89,4 +96,4 @@
 </details>
 
 ---
-*Last updated: 2026-09-02*
+*Last updated: 2026-09-03*
