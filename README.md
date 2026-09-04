@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Total problems solved:** 33
+**Total problems solved:** 34
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
-| Array | 18 |
+| Array | 19 |
 | Math | 4 |
 | Hash Table | 3 |
 | String | 3 |
@@ -21,7 +21,7 @@
 ## Problem list
 
 <details>
-<summary><strong>Array</strong> (18)</summary>
+<summary><strong>Array</strong> (19)</summary>
 
 - [3sum](./Array/3sum)
 - [3sum-closest](./Array/3sum-closest)
@@ -38,6 +38,7 @@
 - [remove-element](./Array/remove-element)
 - [search-insert-position](./Array/search-insert-position)
 - [smallest-missing-multiple-of-k](./Array/smallest-missing-multiple-of-k)
+- [smallest-stable-index-i](./Array/smallest-stable-index-i)
 - [sort-matrix-by-diagonals](./Array/sort-matrix-by-diagonals)
 - [two-sum](./Array/two-sum)
 - [valid-sudoku](./Array/valid-sudoku)
@@ -96,4 +97,4 @@
 </details>
 
 ---
-*Last updated: 2026-09-03*
+*Last updated: 2026-09-04*
