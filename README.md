@@ -4,24 +4,24 @@
 
 ## Progress
 
-**Total problems solved:** 34
+**Total problems solved:** 39
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
-| Array | 19 |
-| Math | 4 |
-| Hash Table | 3 |
+| Array | 21 |
+| Math | 5 |
+| Hash Table | 4 |
+| Linked List | 3 |
 | String | 3 |
-| Linked List | 2 |
 | Two Pointers | 2 |
 | Bit Manipulation | 1 |
 
 ## Problem list
 
 <details>
-<summary><strong>Array</strong> (19)</summary>
+<summary><strong>Array</strong> (21)</summary>
 
 - [3sum](./Array/3sum)
 - [3sum-closest](./Array/3sum-closest)
@@ -35,10 +35,12 @@
 - [maximum-average-pass-ratio](./Array/maximum-average-pass-ratio)
 - [maximum-count-of-positive-integer-and-negative-integer](./Array/maximum-count-of-positive-integer-and-negative-integer)
 - [median-of-two-sorted-arrays](./Array/median-of-two-sorted-arrays)
+- [remove-duplicates-from-sorted-array](./Array/remove-duplicates-from-sorted-array)
 - [remove-element](./Array/remove-element)
 - [search-insert-position](./Array/search-insert-position)
 - [smallest-missing-multiple-of-k](./Array/smallest-missing-multiple-of-k)
 - [smallest-stable-index-i](./Array/smallest-stable-index-i)
+- [smallest-stable-index-ii](./Array/smallest-stable-index-ii)
 - [sort-matrix-by-diagonals](./Array/sort-matrix-by-diagonals)
 - [two-sum](./Array/two-sum)
 - [valid-sudoku](./Array/valid-sudoku)
@@ -46,21 +48,32 @@
 </details>
 
 <details>
-<summary><strong>Math</strong> (4)</summary>
+<summary><strong>Math</strong> (5)</summary>
 
 - [add-two-integers](./Math/add-two-integers)
 - [alice-and-bob-playing-flower-game](./Math/alice-and-bob-playing-flower-game)
+- [climbing-stairs](./Math/climbing-stairs)
 - [palindrome-number](./Math/palindrome-number)
 - [reverse-integer](./Math/reverse-integer)
 
 </details>
 
 <details>
-<summary><strong>Hash Table</strong> (3)</summary>
+<summary><strong>Hash Table</strong> (4)</summary>
 
 - [integer-to-roman](./Hash%20Table/integer-to-roman)
+- [letter-combinations-of-a-phone-number](./Hash%20Table/letter-combinations-of-a-phone-number)
 - [longest-substring-without-repeating-characters](./Hash%20Table/longest-substring-without-repeating-characters)
 - [roman-to-integer](./Hash%20Table/roman-to-integer)
+
+</details>
+
+<details>
+<summary><strong>Linked List</strong> (3)</summary>
+
+- [add-two-numbers](./Linked%20List/add-two-numbers)
+- [merge-two-sorted-lists](./Linked%20List/merge-two-sorted-lists)
+- [remove-nth-node-from-end-of-list](./Linked%20List/remove-nth-node-from-end-of-list)
 
 </details>
 
@@ -70,14 +83,6 @@
 - [string-to-integer-atoi](./String/string-to-integer-atoi)
 - [valid-parentheses](./String/valid-parentheses)
 - [zigzag-conversion](./String/zigzag-conversion)
-
-</details>
-
-<details>
-<summary><strong>Linked List</strong> (2)</summary>
-
-- [add-two-numbers](./Linked%20List/add-two-numbers)
-- [merge-two-sorted-lists](./Linked%20List/merge-two-sorted-lists)
 
 </details>
 
@@ -97,4 +102,4 @@
 </details>
 
 ---
-*Last updated: 2026-09-04*
+*Last updated: 2026-09-05*
