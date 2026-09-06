@@ -4,24 +4,24 @@
 
 ## Progress
 
-**Total problems solved:** 39
+**Total problems solved:** 42
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
-| Array | 21 |
+| Array | 22 |
 | Math | 5 |
+| String | 5 |
 | Hash Table | 4 |
 | Linked List | 3 |
-| String | 3 |
 | Two Pointers | 2 |
 | Bit Manipulation | 1 |
 
 ## Problem list
 
 <details>
-<summary><strong>Array</strong> (21)</summary>
+<summary><strong>Array</strong> (22)</summary>
 
 - [3sum](./Array/3sum)
 - [3sum-closest](./Array/3sum-closest)
@@ -35,6 +35,7 @@
 - [maximum-average-pass-ratio](./Array/maximum-average-pass-ratio)
 - [maximum-count-of-positive-integer-and-negative-integer](./Array/maximum-count-of-positive-integer-and-negative-integer)
 - [median-of-two-sorted-arrays](./Array/median-of-two-sorted-arrays)
+- [plus-one](./Array/plus-one)
 - [remove-duplicates-from-sorted-array](./Array/remove-duplicates-from-sorted-array)
 - [remove-element](./Array/remove-element)
 - [search-insert-position](./Array/search-insert-position)
@@ -59,6 +60,17 @@
 </details>
 
 <details>
+<summary><strong>String</strong> (5)</summary>
+
+- [generate-parentheses](./String/generate-parentheses)
+- [length-of-last-word](./String/length-of-last-word)
+- [string-to-integer-atoi](./String/string-to-integer-atoi)
+- [valid-parentheses](./String/valid-parentheses)
+- [zigzag-conversion](./String/zigzag-conversion)
+
+</details>
+
+<details>
 <summary><strong>Hash Table</strong> (4)</summary>
 
 - [integer-to-roman](./Hash%20Table/integer-to-roman)
@@ -78,15 +90,6 @@
 </details>
 
 <details>
-<summary><strong>String</strong> (3)</summary>
-
-- [string-to-integer-atoi](./String/string-to-integer-atoi)
-- [valid-parentheses](./String/valid-parentheses)
-- [zigzag-conversion](./String/zigzag-conversion)
-
-</details>
-
-<details>
 <summary><strong>Two Pointers</strong> (2)</summary>
 
 - [find-the-index-of-the-first-occurrence-in-a-string](./Two%20Pointers/find-the-index-of-the-first-occurrence-in-a-string)
@@ -102,4 +105,4 @@
 </details>
 
 ---
-*Last updated: 2026-09-05*
+*Last updated: 2026-09-06*
