@@ -4,24 +4,26 @@
 
 ## Progress
 
-**Total problems solved:** 42
+**Total problems solved:** 50
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
-| Array | 22 |
-| Math | 5 |
+| Array | 23 |
+| Math | 7 |
 | String | 5 |
 | Hash Table | 4 |
-| Linked List | 3 |
+| Linked List | 4 |
+| Tree | 3 |
 | Two Pointers | 2 |
 | Bit Manipulation | 1 |
+| Stack | 1 |
 
 ## Problem list
 
 <details>
-<summary><strong>Array</strong> (22)</summary>
+<summary><strong>Array</strong> (23)</summary>
 
 - [3sum](./Array/3sum)
 - [3sum-closest](./Array/3sum-closest)
@@ -35,6 +37,7 @@
 - [maximum-average-pass-ratio](./Array/maximum-average-pass-ratio)
 - [maximum-count-of-positive-integer-and-negative-integer](./Array/maximum-count-of-positive-integer-and-negative-integer)
 - [median-of-two-sorted-arrays](./Array/median-of-two-sorted-arrays)
+- [merge-sorted-array](./Array/merge-sorted-array)
 - [plus-one](./Array/plus-one)
 - [remove-duplicates-from-sorted-array](./Array/remove-duplicates-from-sorted-array)
 - [remove-element](./Array/remove-element)
@@ -49,13 +52,15 @@
 </details>
 
 <details>
-<summary><strong>Math</strong> (5)</summary>
+<summary><strong>Math</strong> (7)</summary>
 
+- [add-binary](./Math/add-binary)
 - [add-two-integers](./Math/add-two-integers)
 - [alice-and-bob-playing-flower-game](./Math/alice-and-bob-playing-flower-game)
 - [climbing-stairs](./Math/climbing-stairs)
 - [palindrome-number](./Math/palindrome-number)
 - [reverse-integer](./Math/reverse-integer)
+- [sqrtx](./Math/sqrtx)
 
 </details>
 
@@ -81,11 +86,21 @@
 </details>
 
 <details>
-<summary><strong>Linked List</strong> (3)</summary>
+<summary><strong>Linked List</strong> (4)</summary>
 
 - [add-two-numbers](./Linked%20List/add-two-numbers)
 - [merge-two-sorted-lists](./Linked%20List/merge-two-sorted-lists)
+- [remove-duplicates-from-sorted-list](./Linked%20List/remove-duplicates-from-sorted-list)
 - [remove-nth-node-from-end-of-list](./Linked%20List/remove-nth-node-from-end-of-list)
+
+</details>
+
+<details>
+<summary><strong>Tree</strong> (3)</summary>
+
+- [invert-binary-tree](./Tree/invert-binary-tree)
+- [same-tree](./Tree/same-tree)
+- [symmetric-tree](./Tree/symmetric-tree)
 
 </details>
 
@@ -104,5 +119,12 @@
 
 </details>
 
+<details>
+<summary><strong>Stack</strong> (1)</summary>
+
+- [binary-tree-inorder-traversal](./Stack/binary-tree-inorder-traversal)
+
+</details>
+
 ---
-*Last updated: 2026-09-06*
+*Last updated: 2026-09-07*
