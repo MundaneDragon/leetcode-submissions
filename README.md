@@ -4,18 +4,18 @@
 
 ## Progress
 
-**Total problems solved:** 50
+**Total problems solved:** 55
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
-| Array | 23 |
-| Math | 7 |
+| Array | 24 |
+| Math | 8 |
+| Tree | 6 |
 | String | 5 |
 | Hash Table | 4 |
 | Linked List | 4 |
-| Tree | 3 |
 | Two Pointers | 2 |
 | Bit Manipulation | 1 |
 | Stack | 1 |
@@ -23,13 +23,14 @@
 ## Problem list
 
 <details>
-<summary><strong>Array</strong> (23)</summary>
+<summary><strong>Array</strong> (24)</summary>
 
 - [3sum](./Array/3sum)
 - [3sum-closest](./Array/3sum-closest)
 - [construct-uniform-parity-array-i](./Array/construct-uniform-parity-array-i)
 - [construct-uniform-parity-array-ii](./Array/construct-uniform-parity-array-ii)
 - [container-with-most-water](./Array/container-with-most-water)
+- [find-first-and-last-position-of-element-in-sorted-array](./Array/find-first-and-last-position-of-element-in-sorted-array)
 - [find-the-minimum-area-to-cover-all-ones-i](./Array/find-the-minimum-area-to-cover-all-ones-i)
 - [find-the-number-of-ways-to-place-people-i](./Array/find-the-number-of-ways-to-place-people-i)
 - [longest-common-prefix](./Array/longest-common-prefix)
@@ -52,15 +53,28 @@
 </details>
 
 <details>
-<summary><strong>Math</strong> (7)</summary>
+<summary><strong>Math</strong> (8)</summary>
 
 - [add-binary](./Math/add-binary)
 - [add-two-integers](./Math/add-two-integers)
 - [alice-and-bob-playing-flower-game](./Math/alice-and-bob-playing-flower-game)
 - [climbing-stairs](./Math/climbing-stairs)
+- [count-commas-in-range](./Math/count-commas-in-range)
 - [palindrome-number](./Math/palindrome-number)
 - [reverse-integer](./Math/reverse-integer)
 - [sqrtx](./Math/sqrtx)
+
+</details>
+
+<details>
+<summary><strong>Tree</strong> (6)</summary>
+
+- [diameter-of-binary-tree](./Tree/diameter-of-binary-tree)
+- [invert-binary-tree](./Tree/invert-binary-tree)
+- [maximum-depth-of-binary-tree](./Tree/maximum-depth-of-binary-tree)
+- [minimum-depth-of-binary-tree](./Tree/minimum-depth-of-binary-tree)
+- [same-tree](./Tree/same-tree)
+- [symmetric-tree](./Tree/symmetric-tree)
 
 </details>
 
@@ -96,15 +110,6 @@
 </details>
 
 <details>
-<summary><strong>Tree</strong> (3)</summary>
-
-- [invert-binary-tree](./Tree/invert-binary-tree)
-- [same-tree](./Tree/same-tree)
-- [symmetric-tree](./Tree/symmetric-tree)
-
-</details>
-
-<details>
 <summary><strong>Two Pointers</strong> (2)</summary>
 
 - [find-the-index-of-the-first-occurrence-in-a-string](./Two%20Pointers/find-the-index-of-the-first-occurrence-in-a-string)
@@ -127,4 +132,4 @@
 </details>
 
 ---
-*Last updated: 2026-09-07*
+*Last updated: 2026-09-08*
