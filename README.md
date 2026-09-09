@@ -4,14 +4,14 @@
 
 ## Progress
 
-**Total problems solved:** 55
+**Total problems solved:** 56
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
 | Array | 24 |
-| Math | 8 |
+| Math | 9 |
 | Tree | 6 |
 | String | 5 |
 | Hash Table | 4 |
@@ -53,13 +53,14 @@
 </details>
 
 <details>
-<summary><strong>Math</strong> (8)</summary>
+<summary><strong>Math</strong> (9)</summary>
 
 - [add-binary](./Math/add-binary)
 - [add-two-integers](./Math/add-two-integers)
 - [alice-and-bob-playing-flower-game](./Math/alice-and-bob-playing-flower-game)
 - [climbing-stairs](./Math/climbing-stairs)
 - [count-commas-in-range](./Math/count-commas-in-range)
+- [count-commas-in-range-ii](./Math/count-commas-in-range-ii)
 - [palindrome-number](./Math/palindrome-number)
 - [reverse-integer](./Math/reverse-integer)
 - [sqrtx](./Math/sqrtx)
@@ -132,4 +133,4 @@
 </details>
 
 ---
-*Last updated: 2026-09-08*
+*Last updated: 2026-09-09*
