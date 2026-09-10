@@ -4,7 +4,7 @@
 
 ## Progress
 
-**Total problems solved:** 56
+**Total problems solved:** 60
 
 ## Breakdown by topic
 
@@ -12,8 +12,8 @@
 | --- | --- |
 | Array | 24 |
 | Math | 9 |
-| Tree | 6 |
-| String | 5 |
+| Tree | 9 |
+| String | 6 |
 | Hash Table | 4 |
 | Linked List | 4 |
 | Two Pointers | 2 |
@@ -68,20 +68,24 @@
 </details>
 
 <details>
-<summary><strong>Tree</strong> (6)</summary>
+<summary><strong>Tree</strong> (9)</summary>
 
+- [balanced-binary-tree](./Tree/balanced-binary-tree)
+- [count-nodes-equal-to-average-of-subtree](./Tree/count-nodes-equal-to-average-of-subtree)
 - [diameter-of-binary-tree](./Tree/diameter-of-binary-tree)
 - [invert-binary-tree](./Tree/invert-binary-tree)
 - [maximum-depth-of-binary-tree](./Tree/maximum-depth-of-binary-tree)
 - [minimum-depth-of-binary-tree](./Tree/minimum-depth-of-binary-tree)
+- [path-sum](./Tree/path-sum)
 - [same-tree](./Tree/same-tree)
 - [symmetric-tree](./Tree/symmetric-tree)
 
 </details>
 
 <details>
-<summary><strong>String</strong> (5)</summary>
+<summary><strong>String</strong> (6)</summary>
 
+- [check-balanced-string](./String/check-balanced-string)
 - [generate-parentheses](./String/generate-parentheses)
 - [length-of-last-word](./String/length-of-last-word)
 - [string-to-integer-atoi](./String/string-to-integer-atoi)
@@ -133,4 +137,4 @@
 </details>
 
 ---
-*Last updated: 2026-09-09*
+*Last updated: 2026-09-10*
