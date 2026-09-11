@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Total problems solved:** 60
+**Total problems solved:** 61
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
-| Array | 24 |
+| Array | 25 |
 | Math | 9 |
 | Tree | 9 |
 | String | 6 |
@@ -23,7 +23,7 @@
 ## Problem list
 
 <details>
-<summary><strong>Array</strong> (24)</summary>
+<summary><strong>Array</strong> (25)</summary>
 
 - [3sum](./Array/3sum)
 - [3sum-closest](./Array/3sum-closest)
@@ -48,6 +48,7 @@
 - [smallest-stable-index-ii](./Array/smallest-stable-index-ii)
 - [sort-matrix-by-diagonals](./Array/sort-matrix-by-diagonals)
 - [two-sum](./Array/two-sum)
+- [unique-3-digit-even-numbers](./Array/unique-3-digit-even-numbers)
 - [valid-sudoku](./Array/valid-sudoku)
 
 </details>
@@ -137,4 +138,4 @@
 </details>
 
 ---
-*Last updated: 2026-09-10*
+*Last updated: 2026-09-11*
