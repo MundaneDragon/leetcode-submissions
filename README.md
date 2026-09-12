@@ -4,13 +4,13 @@
 
 ## Progress
 
-**Total problems solved:** 61
+**Total problems solved:** 62
 
 ## Breakdown by topic
 
 | Topic | Problems Solved |
 | --- | --- |
-| Array | 25 |
+| Array | 26 |
 | Math | 9 |
 | Tree | 9 |
 | String | 6 |
@@ -23,13 +23,14 @@
 ## Problem list
 
 <details>
-<summary><strong>Array</strong> (25)</summary>
+<summary><strong>Array</strong> (26)</summary>
 
 - [3sum](./Array/3sum)
 - [3sum-closest](./Array/3sum-closest)
 - [construct-uniform-parity-array-i](./Array/construct-uniform-parity-array-i)
 - [construct-uniform-parity-array-ii](./Array/construct-uniform-parity-array-ii)
 - [container-with-most-water](./Array/container-with-most-water)
+- [convert-sorted-array-to-binary-search-tree](./Array/convert-sorted-array-to-binary-search-tree)
 - [find-first-and-last-position-of-element-in-sorted-array](./Array/find-first-and-last-position-of-element-in-sorted-array)
 - [find-the-minimum-area-to-cover-all-ones-i](./Array/find-the-minimum-area-to-cover-all-ones-i)
 - [find-the-number-of-ways-to-place-people-i](./Array/find-the-number-of-ways-to-place-people-i)
@@ -138,4 +139,4 @@
 </details>
 
 ---
-*Last updated: 2026-09-11*
+*Last updated: 2026-09-12*
